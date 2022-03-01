@@ -1,7 +1,7 @@
 {
   "name": "@slothfi/bank-core",
   "description": "🎛 Core contracts for the SlothFi exchanges",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "bank.defimons.com",
   "repository": {
     "type": "git",
